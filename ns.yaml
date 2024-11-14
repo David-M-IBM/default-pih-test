@@ -2,4 +2,4 @@ apiVersion: v1
 kind: Namespace
 metadata:
   creationTimestamp: null
-  name: random-ns-name
+  name: random-pub-ns-name
